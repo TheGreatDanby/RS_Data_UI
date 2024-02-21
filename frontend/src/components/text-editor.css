@@ -1,0 +1,9 @@
+/* custom-quill.css */
+.my-custom-quill .ql-container {
+  height: 250px; /* Increase the height */
+  border-radius: 8px; /* Rounded edges */
+}
+
+.my-custom-quill .ql-editor {
+  min-height: 200px; /* Minimum height of the editor area */
+}

@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.6.5",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.9.2",
+    "nodemon": "^3.0.3",
+    "socket.io": "^4.7.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "rs-data-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
